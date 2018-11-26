@@ -6,3 +6,5 @@ Expresamos la ecuación en la forma f(x) = 0, e identificamos la función f.
 Calculamos la derivada
 Construimos la fórmula de recurrencia
 Tomamos una estimación inicial de la solución. En este caso podemos tomar por ejemplo x0 = 1.0, y calculamos las siguientes aproxima- ciones. Desde el punto de vista práctico, si deseamos aproximar la solución con 6 decimales, podemos detener los cálculos cuando dos aproximaciones consecutivas coincidan hasta el decimal 8.
+
+Más información: https://jorgeyfloreth.wordpress.com/2017/02/14/metodo-de-newton-raphson/
