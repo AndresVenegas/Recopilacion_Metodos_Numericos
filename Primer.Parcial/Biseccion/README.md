@@ -1,3 +1,3 @@
 Metodo de Biseccion
 
-Este metodo se resuelve 
+Este metodo se resuelve .
