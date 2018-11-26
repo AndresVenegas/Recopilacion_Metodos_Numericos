@@ -4,4 +4,4 @@ Esta técnica se basa en el teorema del valor intermedio y parte del supuesto qu
 
 Básicamente, el método consiste en dividir a la mitad repetidamente los subintervalos de [a,b] y en cada paso, localizar la mitad que contiene a la solución.
 
-Más información en https://tecdigital.tec.ac.cr/revistamatematica/HERRAmInternet/ecuaexecl/node4.html
+Más información en: https://tecdigital.tec.ac.cr/revistamatematica/HERRAmInternet/ecuaexecl/node4.html
