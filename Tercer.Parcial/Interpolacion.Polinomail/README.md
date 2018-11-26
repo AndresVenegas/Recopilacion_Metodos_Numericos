@@ -1,4 +1,4 @@
-Interpolacion Polinomail
+Interpolación Polinomial
 
 La interpolación polinómica es un método usado para conocer, de un modo aproximado, los valores que toma cierta función de la cual sólo se conoce su imagen en un número finito de abscisas. A menudo, ni siquiera se conocerá la expresión de la función y sólo se dispondrá de los valores que toma para dichas abscisas.
 
